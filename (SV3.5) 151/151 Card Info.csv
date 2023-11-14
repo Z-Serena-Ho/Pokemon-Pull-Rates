@@ -1,208 +1,208 @@
 ,No.,Card name,Rarity
-0,001/165,Bulbasaur,Common
-1,002/165,Ivysaur,Uncommon
-2,003/165,Venusaur ex,Double Rare
-3,004/165,Charmander,Common
-4,005/165,Charmeleon,Uncommon
-5,006/165,Charizard ex,Double Rare
-6,007/165,Squirtle,Common
-7,008/165,Wartortle,Uncommon
-8,009/165,Blastoise ex,Double Rare
-9,010/165,Caterpie,Common
-10,011/165,Metapod,Common
-11,012/165,Butterfree,Uncommon
-12,013/165,Weedle,Common
-13,014/165,Kakuna,Common
-14,015/165,Beedrill,Rare
-15,016/165,Pidgey,Common
-16,017/165,Pidgeotto,Common
-17,018/165,Pidgeot,Uncommon
-18,019/165,Rattata,Common
-19,020/165,Raticate,Uncommon
-20,021/165,Spearow,Common
-21,022/165,Fearow,Uncommon
-22,023/165,Ekans,Common
-23,024/165,Arbok ex,Double Rare
-24,025/165,Pikachu,Common
-25,026/165,Raichu,Rare
-26,027/165,Sandshrew,Common
-27,028/165,Sandslash,Uncommon
-28,029/165,Nidoran♀,Common
-29,030/165,Nidorina,Uncommon
-30,031/165,Nidoqueen,Uncommon
-31,032/165,Nidoran♂,Common
-32,033/165,Nidorino,Uncommon
-33,034/165,Nidoking,Rare
-34,035/165,Clefairy,Common
-35,036/165,Clefable,Uncommon
-36,037/165,Vulpix,Common
-37,038/165,Ninetales ex,Double Rare
-38,039/165,Jigglypuff,Common
-39,040/165,Wigglytuff ex,Double Rare
-40,041/165,Zubat,Common
-41,042/165,Golbat,Uncommon
-42,043/165,Oddish,Common
-43,044/165,Gloom,Uncommon
-44,045/165,Vileplume,Rare
-45,046/165,Paras,Common
-46,047/165,Parasect,Uncommon
-47,048/165,Venonat,Common
-48,049/165,Venomoth,Uncommon
-49,050/165,Diglett,Common
-50,051/165,Dugtrio,Uncommon
-51,052/165,Meowth,Common
-52,053/165,Persian,Uncommon
-53,054/165,Psyduck,Common
-54,055/165,Golduck,Uncommon
-55,056/165,Mankey,Common
-56,057/165,Primeape,Uncommon
-57,058/165,Growlithe,Common
-58,059/165,Arcanine,Uncommon
-59,060/165,Poliwag,Common
-60,061/165,Poliwhirl,Common
-61,062/165,Poliwrath,Uncommon
-62,063/165,Abra,Common
-63,064/165,Kadabra,Uncommon
-64,065/165,Alakazam ex,Double Rare
-65,066/165,Machop,Common
-66,067/165,Machoke,Uncommon
-67,068/165,Machamp,Rare
-68,069/165,Bellsprout,Common
-69,070/165,Weepinbell,Common
-70,071/165,Victreebel,Uncommon
-71,072/165,Tentacool,Common
-72,073/165,Tentacruel,Uncommon
-73,074/165,Geodude,Common
-74,075/165,Graveler,Uncommon
-75,076/165,Golem ex,Double Rare
-76,077/165,Ponyta,Common
-77,078/165,Rapidash,Uncommon
-78,079/165,Slowpoke,Common
-79,080/165,Slowbro,Uncommon
-80,081/165,Magnemite,Common
-81,082/165,Magneton,Uncommon
-82,083/165,Farfetch'd,Common
-83,084/165,Doduo,Common
-84,085/165,Dodrio,Rare
-85,086/165,Seel,Common
-86,087/165,Dewgong,Uncommon
-87,088/165,Grimer,Common
-88,089/165,Muk,Uncommon
-89,090/165,Shellder,Common
-90,091/165,Cloyster,Uncommon
-91,092/165,Gastly,Common
-92,093/165,Haunter,Uncommon
-93,094/165,Gengar,Rare
-94,095/165,Onix,Uncommon
-95,096/165,Drowzee,Common
-96,097/165,Hypno,Uncommon
-97,098/165,Krabby,Common
-98,099/165,Kingler,Uncommon
-99,100/165,Voltorb,Common
-100,101/165,Electrode,Rare
-101,102/165,Exeggcute,Common
-102,103/165,Exeggutor,Uncommon
-103,104/165,Cubone,Common
-104,105/165,Marowak,Rare
-105,106/165,Hitmonlee,Uncommon
-106,107/165,Hitmonchan,Uncommon
-107,108/165,Lickitung,Common
-108,109/165,Koffing,Common
-109,110/165,Weezing,Rare
-110,111/165,Rhyhorn,Common
-111,112/165,Rhydon,Uncommon
-112,113/165,Chansey,Rare
-113,114/165,Tangela,Common
-114,115/165,Kangaskhan ex,Double Rare
-115,116/165,Horsea,Common
-116,117/165,Seadra,Uncommon
-117,118/165,Goldeen,Common
-118,119/165,Seaking,Uncommon
-119,120/165,Staryu,Common
-120,121/165,Starmie,Rare
-121,122/165,Mr. Mime,Rare
-122,123/165,Scyther,Uncommon
-123,124/165,Jynx ex,Double Rare
-124,125/165,Electabuzz,Common
-125,126/165,Magmar,Common
-126,127/165,Pinsir,Uncommon
-127,128/165,Tauros,Uncommon
-128,129/165,Magikarp,Common
-129,130/165,Gyarados,Rare
-130,131/165,Lapras,Uncommon
-131,132/165,Ditto,Rare
-132,133/165,Eevee,Common
-133,134/165,Vaporeon,Rare
-134,135/165,Jolteon,Rare
-135,136/165,Flareon,Rare
-136,137/165,Porygon,Common
-137,138/165,Omanyte,Uncommon
-138,139/165,Omastar,Rare
-139,140/165,Kabuto,Uncommon
-140,141/165,Kabutops,Rare
-141,142/165,Aerodactyl,Rare
-142,143/165,Snorlax,Uncommon
-143,144/165,Articuno,Rare
-144,145/165,Zapdos ex,Double Rare
-145,146/165,Moltres,Rare
-146,147/165,Dratini,Common
-147,148/165,Dragonair,Uncommon
-148,149/165,Dragonite,Rare
-149,150/165,Mewtwo,Rare
-150,151/165,Mew ex,Double Rare
-151,152/165,Antique Dome Fossil,Common
-152,153/165,Antique Helix Fossil,Common
-153,154/165,Antique Old Amber,Common
-154,155/165,Big Air Balloon,Uncommon
-155,156/165,Bill's Transfer,Uncommon
-156,157/165,Cycling Road,Uncommon
-157,158/165,Daisy's Help,Uncommon
-158,159/165,Energy Sticker,Uncommon
-159,160/165,Erika's Invitation,Uncommon
-160,161/165,Giovanni's Charisma,Uncommon
-161,162/165,Grabber,Uncommon
-162,163/165,Leftovers,Uncommon
-163,164/165,Protective Goggles,Uncommon
-164,165/165,Rigid Band,Uncommon
-165,166/165,Bulbasaur,Illustration Rare
-166,167/165,Ivysaur,Illustration Rare
-167,168/165,Charmander,Illustration Rare
-168,169/165,Charmeleon,Illustration Rare
-169,170/165,Squirtle,Illustration Rare
-170,171/165,Wartortle,Illustration Rare
-171,172/165,Caterpie,Illustration Rare
-172,173/165,Pikachu,Illustration Rare
-173,174/165,Nidoking,Illustration Rare
-174,175/165,Psyduck,Illustration Rare
-175,176/165,Poliwhirl,Illustration Rare
-176,177/165,Machoke,Illustration Rare
-177,178/165,Tangela,Illustration Rare
-178,179/165,Mr. Mime,Illustration Rare
-179,180/165,Omanyte,Illustration Rare
-180,181/165,Dragonair,Illustration Rare
-181,182/165,Venusaur ex,Ultra Rare
-182,183/165,Charizard ex,Ultra Rare
-183,184/165,Blastoise ex,Ultra Rare
-184,185/165,Arbok ex,Ultra Rare
-185,186/165,Ninetales ex,Ultra Rare
-186,187/165,Wigglytuff ex,Ultra Rare
-187,188/165,Alakazam ex,Ultra Rare
-188,189/165,Golem ex,Ultra Rare
-189,190/165,Kangaskhan ex,Ultra Rare
-190,191/165,Jynx ex,Ultra Rare
-191,192/165,Zapdos ex,Ultra Rare
-192,193/165,Mew ex,Ultra Rare
-193,194/165,Bill's Transfer,Ultra Rare
-194,195/165,Daisy's Help,Ultra Rare
-195,196/165,Erika's Invitation,Ultra Rare
-196,197/165,Giovanni's Charisma,Ultra Rare
-197,198/165,Venusaur ex,Special Illustration Rare
-198,199/165,Charizard ex,Special Illustration Rare
-199,200/165,Blastoise ex,Special Illustration Rare
-200,201/165,Alakazam ex,Special Illustration Rare
-201,202/165,Zapdos ex,Special Illustration Rare
-202,203/165,Erika's Invitation,Special Illustration Rare
-203,204/165,Giovanni's Charisma,Special Illustration Rare
-204,205/165,Mew ex,Hyper Rare
-205,206/165,Switch,Hyper Rare
-206,207/165,Basic Psychic Energy,Hyper Rare
+0,1,Bulbasaur,Common
+1,2,Ivysaur,Uncommon
+2,3,Venusaur ex,Double Rare
+3,4,Charmander,Common
+4,5,Charmeleon,Uncommon
+5,6,Charizard ex,Double Rare
+6,7,Squirtle,Common
+7,8,Wartortle,Uncommon
+8,9,Blastoise ex,Double Rare
+9,10,Caterpie,Common
+10,11,Metapod,Common
+11,12,Butterfree,Uncommon
+12,13,Weedle,Common
+13,14,Kakuna,Common
+14,15,Beedrill,Rare
+15,16,Pidgey,Common
+16,17,Pidgeotto,Common
+17,18,Pidgeot,Uncommon
+18,19,Rattata,Common
+19,20,Raticate,Uncommon
+20,21,Spearow,Common
+21,22,Fearow,Uncommon
+22,23,Ekans,Common
+23,24,Arbok ex,Double Rare
+24,25,Pikachu,Common
+25,26,Raichu,Rare
+26,27,Sandshrew,Common
+27,28,Sandslash,Uncommon
+28,29,Nidoran♀,Common
+29,30,Nidorina,Uncommon
+30,31,Nidoqueen,Uncommon
+31,32,Nidoran♂,Common
+32,33,Nidorino,Uncommon
+33,34,Nidoking,Rare
+34,35,Clefairy,Common
+35,36,Clefable,Uncommon
+36,37,Vulpix,Common
+37,38,Ninetales ex,Double Rare
+38,39,Jigglypuff,Common
+39,40,Wigglytuff ex,Double Rare
+40,41,Zubat,Common
+41,42,Golbat,Uncommon
+42,43,Oddish,Common
+43,44,Gloom,Uncommon
+44,45,Vileplume,Rare
+45,46,Paras,Common
+46,47,Parasect,Uncommon
+47,48,Venonat,Common
+48,49,Venomoth,Uncommon
+49,50,Diglett,Common
+50,51,Dugtrio,Uncommon
+51,52,Meowth,Common
+52,53,Persian,Uncommon
+53,54,Psyduck,Common
+54,55,Golduck,Uncommon
+55,56,Mankey,Common
+56,57,Primeape,Uncommon
+57,58,Growlithe,Common
+58,59,Arcanine,Uncommon
+59,60,Poliwag,Common
+60,61,Poliwhirl,Common
+61,62,Poliwrath,Uncommon
+62,63,Abra,Common
+63,64,Kadabra,Uncommon
+64,65,Alakazam ex,Double Rare
+65,66,Machop,Common
+66,67,Machoke,Uncommon
+67,68,Machamp,Rare
+68,69,Bellsprout,Common
+69,70,Weepinbell,Common
+70,71,Victreebel,Uncommon
+71,72,Tentacool,Common
+72,73,Tentacruel,Uncommon
+73,74,Geodude,Common
+74,75,Graveler,Uncommon
+75,76,Golem ex,Double Rare
+76,77,Ponyta,Common
+77,78,Rapidash,Uncommon
+78,79,Slowpoke,Common
+79,80,Slowbro,Uncommon
+80,81,Magnemite,Common
+81,82,Magneton,Uncommon
+82,83,Farfetch'd,Common
+83,84,Doduo,Common
+84,85,Dodrio,Rare
+85,86,Seel,Common
+86,87,Dewgong,Uncommon
+87,88,Grimer,Common
+88,89,Muk,Uncommon
+89,90,Shellder,Common
+90,91,Cloyster,Uncommon
+91,92,Gastly,Common
+92,93,Haunter,Uncommon
+93,94,Gengar,Rare
+94,95,Onix,Uncommon
+95,96,Drowzee,Common
+96,97,Hypno,Uncommon
+97,98,Krabby,Common
+98,99,Kingler,Uncommon
+99,100,Voltorb,Common
+100,101,Electrode,Rare
+101,102,Exeggcute,Common
+102,103,Exeggutor,Uncommon
+103,104,Cubone,Common
+104,105,Marowak,Rare
+105,106,Hitmonlee,Uncommon
+106,107,Hitmonchan,Uncommon
+107,108,Lickitung,Common
+108,109,Koffing,Common
+109,110,Weezing,Rare
+110,111,Rhyhorn,Common
+111,112,Rhydon,Uncommon
+112,113,Chansey,Rare
+113,114,Tangela,Common
+114,115,Kangaskhan ex,Double Rare
+115,116,Horsea,Common
+116,117,Seadra,Uncommon
+117,118,Goldeen,Common
+118,119,Seaking,Uncommon
+119,120,Staryu,Common
+120,121,Starmie,Rare
+121,122,Mr. Mime,Rare
+122,123,Scyther,Uncommon
+123,124,Jynx ex,Double Rare
+124,125,Electabuzz,Common
+125,126,Magmar,Common
+126,127,Pinsir,Uncommon
+127,128,Tauros,Uncommon
+128,129,Magikarp,Common
+129,130,Gyarados,Rare
+130,131,Lapras,Uncommon
+131,132,Ditto,Rare
+132,133,Eevee,Common
+133,134,Vaporeon,Rare
+134,135,Jolteon,Rare
+135,136,Flareon,Rare
+136,137,Porygon,Common
+137,138,Omanyte,Uncommon
+138,139,Omastar,Rare
+139,140,Kabuto,Uncommon
+140,141,Kabutops,Rare
+141,142,Aerodactyl,Rare
+142,143,Snorlax,Uncommon
+143,144,Articuno,Rare
+144,145,Zapdos ex,Double Rare
+145,146,Moltres,Rare
+146,147,Dratini,Common
+147,148,Dragonair,Uncommon
+148,149,Dragonite,Rare
+149,150,Mewtwo,Rare
+150,151,Mew ex,Double Rare
+151,152,Antique Dome Fossil,Common
+152,153,Antique Helix Fossil,Common
+153,154,Antique Old Amber,Common
+154,155,Big Air Balloon,Uncommon
+155,156,Bill's Transfer,Uncommon
+156,157,Cycling Road,Uncommon
+157,158,Daisy's Help,Uncommon
+158,159,Energy Sticker,Uncommon
+159,160,Erika's Invitation,Uncommon
+160,161,Giovanni's Charisma,Uncommon
+161,162,Grabber,Uncommon
+162,163,Leftovers,Uncommon
+163,164,Protective Goggles,Uncommon
+164,165,Rigid Band,Uncommon
+165,166,Bulbasaur,Illustration Rare
+166,167,Ivysaur,Illustration Rare
+167,168,Charmander,Illustration Rare
+168,169,Charmeleon,Illustration Rare
+169,170,Squirtle,Illustration Rare
+170,171,Wartortle,Illustration Rare
+171,172,Caterpie,Illustration Rare
+172,173,Pikachu,Illustration Rare
+173,174,Nidoking,Illustration Rare
+174,175,Psyduck,Illustration Rare
+175,176,Poliwhirl,Illustration Rare
+176,177,Machoke,Illustration Rare
+177,178,Tangela,Illustration Rare
+178,179,Mr. Mime,Illustration Rare
+179,180,Omanyte,Illustration Rare
+180,181,Dragonair,Illustration Rare
+181,182,Venusaur ex,Ultra Rare
+182,183,Charizard ex,Ultra Rare
+183,184,Blastoise ex,Ultra Rare
+184,185,Arbok ex,Ultra Rare
+185,186,Ninetales ex,Ultra Rare
+186,187,Wigglytuff ex,Ultra Rare
+187,188,Alakazam ex,Ultra Rare
+188,189,Golem ex,Ultra Rare
+189,190,Kangaskhan ex,Ultra Rare
+190,191,Jynx ex,Ultra Rare
+191,192,Zapdos ex,Ultra Rare
+192,193,Mew ex,Ultra Rare
+193,194,Bill's Transfer,Ultra Rare
+194,195,Daisy's Help,Ultra Rare
+195,196,Erika's Invitation,Ultra Rare
+196,197,Giovanni's Charisma,Ultra Rare
+197,198,Venusaur ex,Special Illustration Rare
+198,199,Charizard ex,Special Illustration Rare
+199,200,Blastoise ex,Special Illustration Rare
+200,201,Alakazam ex,Special Illustration Rare
+201,202,Zapdos ex,Special Illustration Rare
+202,203,Erika's Invitation,Special Illustration Rare
+203,204,Giovanni's Charisma,Special Illustration Rare
+204,205,Mew ex,Hyper Rare
+205,206,Switch,Hyper Rare
+206,207,Basic Psychic Energy,Hyper Rare
